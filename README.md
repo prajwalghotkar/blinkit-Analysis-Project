@@ -56,3 +56,5 @@
 #### 7) All Metrics by Outlet Type:
 #####   * Objective: Provide a comprehensive view of all key metrics(Total Sales,Average Sales,Number of Items,Average Rating) brokem down by different outlet types.
 #####   * Chart Type: Matrix Card.
+
+<img width="612" alt="Prajwal Data" src="https://github.com/user-attachments/assets/b8fb940b-774d-48c5-9bde-630ad391621a" />
